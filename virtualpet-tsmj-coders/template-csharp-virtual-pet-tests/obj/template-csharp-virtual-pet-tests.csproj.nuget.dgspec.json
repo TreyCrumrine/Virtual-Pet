@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Crumrine Financial\\Desktop\\Repo\\virtualpet-tsmj-coders\\template-csharp-virtual-pet-tests\\template-csharp-virtual-pet-tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Crumrine Financial\\Desktop\\Repo\\virtualpet-tsmj-coders\\template-csharp-virtual-pet-tests\\template-csharp-virtual-pet-tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Crumrine Financial\\Desktop\\Repo\\virtualpet-tsmj-coders\\template-csharp-virtual-pet-tests\\template-csharp-virtual-pet-tests.csproj",
+        "projectName": "template-csharp-virtual-pet-tests",
+        "projectPath": "C:\\Users\\Crumrine Financial\\Desktop\\Repo\\virtualpet-tsmj-coders\\template-csharp-virtual-pet-tests\\template-csharp-virtual-pet-tests.csproj",
+        "packagesPath": "C:\\Users\\Crumrine Financial\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Crumrine Financial\\Desktop\\Repo\\virtualpet-tsmj-coders\\template-csharp-virtual-pet-tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Crumrine Financial\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Crumrine Financial\\Desktop\\Repo\\virtualpet-tsmj-coders\\template-csharp-virtual-pet.csproj": {
+                "projectPath": "C:\\Users\\Crumrine Financial\\Desktop\\Repo\\virtualpet-tsmj-coders\\template-csharp-virtual-pet.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Crumrine Financial\\Desktop\\Repo\\virtualpet-tsmj-coders\\template-csharp-virtual-pet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Crumrine Financial\\Desktop\\Repo\\virtualpet-tsmj-coders\\template-csharp-virtual-pet.csproj",
+        "projectName": "template-csharp-virtual-pet",
+        "projectPath": "C:\\Users\\Crumrine Financial\\Desktop\\Repo\\virtualpet-tsmj-coders\\template-csharp-virtual-pet.csproj",
+        "packagesPath": "C:\\Users\\Crumrine Financial\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Crumrine Financial\\Desktop\\Repo\\virtualpet-tsmj-coders\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Crumrine Financial\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

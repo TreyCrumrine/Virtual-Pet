@@ -1,0 +1,15 @@
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\bin\Debug\net6.0\template-csharp-virtual-pet.exe
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\bin\Debug\net6.0\template-csharp-virtual-pet.deps.json
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\bin\Debug\net6.0\template-csharp-virtual-pet.runtimeconfig.json
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\bin\Debug\net6.0\template-csharp-virtual-pet.dll
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\bin\Debug\net6.0\template-csharp-virtual-pet.pdb
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\obj\Debug\net6.0\template-csharp-virtual-pet.csproj.AssemblyReference.cache
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\obj\Debug\net6.0\template-csharp-virtual-pet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\obj\Debug\net6.0\template-csharp-virtual-pet.AssemblyInfoInputs.cache
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\obj\Debug\net6.0\template-csharp-virtual-pet.AssemblyInfo.cs
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\obj\Debug\net6.0\template-csharp-virtual-pet.csproj.CoreCompileInputs.cache
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\obj\Debug\net6.0\template-csharp-virtual-pet.dll
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\obj\Debug\net6.0\refint\template-csharp-virtual-pet.dll
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\obj\Debug\net6.0\template-csharp-virtual-pet.pdb
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\obj\Debug\net6.0\template-csharp-virtual-pet.genruntimeconfig.cache
+C:\Users\Crumrine Financial\Desktop\Repo\virtualpet-tsmj-coders\obj\Debug\net6.0\ref\template-csharp-virtual-pet.dll
